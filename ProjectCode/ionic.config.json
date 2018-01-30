@@ -1,0 +1,8 @@
+{
+  "name": "main4thPaula",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
